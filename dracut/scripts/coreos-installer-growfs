@@ -1,6 +1,8 @@
 #!/bin/bash
 set -euo pipefail
 
+# runcom
+
 path=/growroot
 udevadm settle
 
